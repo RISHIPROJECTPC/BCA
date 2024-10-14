@@ -6,9 +6,9 @@ switch(num)
 {
 case 1:printf("One\n");
 break;
-case 2:printf("Two\n);
-case 3:("Three\n")
+case 2:printf("Two\n");
+case 3:("Three\n");
 break;
-default:printf("Invalid\n);
+default:printf("Invalid\n");
 }
 }
